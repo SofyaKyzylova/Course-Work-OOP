@@ -1,0 +1,13 @@
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.MainPage.resources
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.PopDensityForm.resources
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.EditPage.resources
+C:\Users\Sofja\Desktop\VS projects\c#\CourseWork\CourseWork\obj\Debug\CourseWork.CompareForm.resources
