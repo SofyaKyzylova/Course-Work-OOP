@@ -1,5 +1,5 @@
 # Course-Work-OOP
-The program implements a class system: an information class containing information about the city, and a structure class implementing the structure of a binary pyramid
+The program implements a class system: an information class containing information about a city, and a structure class implementing the structure of a binary pyramid.
 
 The array of objects of the City class is implemented based on the templated Pyramid class.
 A pyramid sorting tree on an array (pyramid sorting or heap sorting) is a comparison sorting method based on a data structure such as a binary heap. A binary heap is a complete binary tree in which elements are stored in a special order: the value in the parent node is greater (or less) than the values in its two child nodes.
